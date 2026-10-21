@@ -1,4 +1,4 @@
-# Just my personal fork of 5hell by Plu70 for Grey Hack the game.
+# fork of 5hell by Plu70 for Grey Hack the game.
 
 ## Just my personal modifications to accomodate my in-game workflow.
 
